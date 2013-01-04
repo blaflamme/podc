@@ -6,5 +6,5 @@ Usage
 
 .. parsed-literal::
 
-    $ dotcloud create podc
+    $ dotcloud create --git podc
     $ dotcloud push
