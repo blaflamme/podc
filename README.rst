@@ -4,5 +4,7 @@ Pyramid On DotCloud
 Usage
 -----
 
-$ dotcloud create podc
-$ dotcloud push
+.. parsed-literal::
+
+    $ dotcloud create podc
+    $ dotcloud push
